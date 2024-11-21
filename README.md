@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-
+Welcome to DEPI Graduation Project
 The **Library Management System** is a web application built with **ASP.NET Core** that helps libraries manage their inventory, track book checkouts, handle book returns, and calculate penalties for late returns. The system provides user authentication for both librarians and members and includes a search functionality for books.
 
 ## Features
