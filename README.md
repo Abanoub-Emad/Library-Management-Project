@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/fbb00b17-e484-49c9-8ccc-e1574daad65b)# Library Management System
+# Library Management System
 
 ## Overview
-Welcome to DEPI Graduation Project
+Welcome to the DEPI Graduation Project
 
-The **Library Management System** is a web application built with **ASP.NET Core** that helps libraries manage their inventory, track book checkouts, handle book returns, and calculate penalties for late returns. The system provides user authentication for both librarians and members and includes a search functionality for books.
+The **Library Management System** is a web application built with **ASP.NET Core** that helps libraries manage their inventory, track book checkouts, handle book returns, and calculate penalties for late returns. The system provides user authentication for librarians and members and includes a book search functionality.
 
 ## Features
 
@@ -59,10 +59,17 @@ The **Library Management System** is a web application built with **ASP.NET Core
 - **Members** can log in to browse the available books, check their borrowed books, and return them.
 
 ## DEMO 
+### Registration
+![image](https://github.com/user-attachments/assets/fbb00b17-e484-49c9-8ccc-e1574daad65b)
 ![image](https://github.com/user-attachments/assets/18ba1387-c688-4f59-b8ec-cd2e8d5d9fc3)
 
 
 ### Libirian can add | delete | Edit books details
+![image](https://github.com/user-attachments/assets/0ade1a06-2400-4ec1-9cc7-03386c74bec8)
+
+
+### Member View: Can search for books and borrow them.
+![image](https://github.com/user-attachments/assets/20c28930-896e-4ffe-bad1-abbe7e7079a7)
 
 ## Contribution
 
