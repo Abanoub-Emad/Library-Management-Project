@@ -1,4 +1,4 @@
-# Library Management System
+![image](https://github.com/user-attachments/assets/fbb00b17-e484-49c9-8ccc-e1574daad65b)# Library Management System
 
 ## Overview
 Welcome to DEPI Graduation Project
@@ -57,6 +57,12 @@ The **Library Management System** is a web application built with **ASP.NET Core
 
 - **Librarians** can log in to manage books, view overdue books, and manage members.
 - **Members** can log in to browse the available books, check their borrowed books, and return them.
+
+## DEMO 
+![image](https://github.com/user-attachments/assets/18ba1387-c688-4f59-b8ec-cd2e8d5d9fc3)
+
+
+### Libirian can add | delete | Edit books details
 
 ## Contribution
 
