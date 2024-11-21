@@ -65,11 +65,11 @@ The **Library Management System** is a web application built with **ASP.NET Core
 
 
 ### Libirian can add | delete | Edit books details
-![image](https://github.com/user-attachments/assets/0ade1a06-2400-4ec1-9cc7-03386c74bec8)
+![image](https://github.com/user-attachments/assets/20c28930-896e-4ffe-bad1-abbe7e7079a7)
 
 
 ### Member View: Can search for books and borrow them.
-![image](https://github.com/user-attachments/assets/20c28930-896e-4ffe-bad1-abbe7e7079a7)
+![image](https://github.com/user-attachments/assets/0ade1a06-2400-4ec1-9cc7-03386c74bec8)
 
 ## Contribution
 
